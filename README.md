@@ -1,16 +1,30 @@
-## Hi there 👋
+name = input("What's your name? ")
+# What's your name? Davi
 
-<!--
-**davigomes-stack/davigomes-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+print(f"Hello, {name}!")
+# Hello, Davi!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I decided to start my journey into the world of programming.
+
+I've always been really into technology, and now I've decided to take that curiosity more seriously by learning and building my first projects.
+
+I'm mainly interested in:
+
+🐍 Python
+📊 Data Analysis
+⛓️ Blockchain
+🔎 Exploring data, movements, and trends
+
+Right now, I'm learning, practicing, and using this GitHub to keep track of my progress and the projects I build along the way.
+
+I feel like I'm starting at the best possible time. Just wanted to leave that here, haha...
+
+Still learning...
+
+
+
+
+
+Note: I originally wrote this README in Portuguese and translated it into English, since improving my English is also one of my career goals.
+Nota: Escrevi este README originalmente em português e o traduzi para o inglês, já que aprimorar meu inglês também é um dos meus objetivos de carreira.
