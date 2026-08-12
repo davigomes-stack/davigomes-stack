@@ -1,8 +1,8 @@
-#name = input("What's your name? ")
-What's your name? Davi
+name = input("What's your name? ")
+#What's your name? Davi
 
-#print(f"Hello, {name}!")
-Hello, Davi!
+print(f"Hello, {name}!")
+#Hello, Davi!
 
 
 I decided to start my journey into the world of programming.
